@@ -30,7 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "@hono/node-server": "^1.19.9",
-    "dotenv": "^16.4.7",
+    "dotenv": "^17.3.1",
     "grammy": "^1.39.3",
     "gray-matter": "^4.0.3",
     "hono": "^4.7.0",
